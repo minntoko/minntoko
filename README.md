@@ -1,7 +1,7 @@
 ![minntoko's GitHub stats](https://github-readme-stats.vercel.app/api?username=minntoko&hide_title=true&count_private=true&theme=nightowl&show_icons=true)  
 <!--
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minntoko&hide_title=true&layout=compact&theme=nightowl)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minntoko&hide_title=true&layout=compact&theme=nightowl) -->
 
 **Languages**  
 <!---->
