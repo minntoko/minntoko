@@ -3,6 +3,8 @@
 -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minntoko&hide_title=true&layout=compact&theme=nightowl) -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minntoko&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/mo-ri-regen/github-readme-stats)
+
 **Languages**  
 <!---->
 ![HTML](https://img.shields.io/badge/HTML-021627?style=for-the-badge&logo=html5&logoColor=61DAFB)
