@@ -2,7 +2,7 @@
 <!--
 -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minntoko&hide_title=true&layout=compact&theme=nightowl) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minntoko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minntoko&layout=compact&theme=tokyonight)](https://github.com/minntoko/)
 <!--
 -->
 **Languages**  
