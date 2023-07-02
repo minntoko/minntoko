@@ -78,7 +78,7 @@
   </a>
 </p>
 
-## Framework And Library
+## Framework and Library
 <p align="left">
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img
