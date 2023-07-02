@@ -6,7 +6,7 @@
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minntoko&theme=2077"
-      width=98%/>
+      width=95%/>
   </a>
 </div>
 
