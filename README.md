@@ -12,11 +12,11 @@
 
 <div align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=minntoko&theme=2077&utcOffset=9" width="42%" />
+    <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=minntoko&theme=2077&utcOffset=9" width="41%" />
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minntoko&layout=compact&theme=radical" width="54%" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minntoko&layout=compact&theme=radical" width="52%" />
   </a>
 </div>
 
